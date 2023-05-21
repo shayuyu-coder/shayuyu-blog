@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="018c56f6-5a43-4e0b-8233-7f46ad5628d0" name="Changes" comment="update" />
+    <list default="true" id="018c56f6-5a43-4e0b-8233-7f46ad5628d0" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/themes/flex-block/source/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/flex-block/source/shayu.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/2023/05/21/沙鱼的自我介绍/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2023/05/21/沙鱼的自我介绍/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/archives/2023/05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2023/05/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/archives/2023/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2023/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/生活/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/生活/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/日记/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/日记/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,16 +39,20 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Q3h3eGbOfP1hDpdpGrAWQJcbG1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -53,6 +71,23 @@
       <recent name="C:\Users\25073\Desktop\hexo\public\static\images" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="server" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="server" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.server" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,6 +98,7 @@
       <updated>1684587976420</updated>
       <workItem from="1684587976420" duration="18191000" />
       <workItem from="1684609708032" duration="320000" />
+      <workItem from="1684644200979" duration="310000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1684609724741</created>
@@ -96,6 +132,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
